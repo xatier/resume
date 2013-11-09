@@ -49,6 +49,7 @@ Computer skills
 - compiler (llvm)
 - Linux programming
 - git version control system
+- GPU computing  (OpenCL)
 
 
 
@@ -62,7 +63,7 @@ Experience
 - Linux team, PC team, VCS team (Version Control System)
 
 
-### System Administrator, since July 2013
+### System Administrator, since July 2013 - October 2013
 
 - Unix server administrator, Information Technology Service Center, NCTU
   
@@ -87,7 +88,7 @@ Experience
 
 
 
-Sofrware Projects
+Software Projects
 -----------------
 
 ### NBL virus automatic testing tool sets
@@ -99,7 +100,7 @@ Sofrware Projects
 - IRC-based RSS feed bot
 
 ### Hime Input Method Editor (contributer)
-- A chinese input method edirot forked from gcin
+- A Chinese input method editor forked from gcin
 
 ### Tox.im (contributer)
 - Free as in freedom Skype replacement.
@@ -127,6 +128,6 @@ Invited talks
 Language skill
 --------------
 
-- Chinese: native speeker, fluent
+- Chinese: native speaker, fluent
 - English: Be able to listen, read, write and speak but not fluent
 
