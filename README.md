@@ -1,27 +1,31 @@
 Resume
 ======
 
-Personal data
--------------
+Personal information 
+--------------------
 
 - Name: Yan-Ming Li (李晏銘)
 - Sex: Male
-- Mobile: +886988-524-050
+- Mobile: +886-988-524-050
 - E-mail: `xatierlike@gmail.com`
 
 
 
-Personal characteristics and habits
------------------------------------
+Characteristics and habits
+--------------------------
 
 - Optimistic, aggressive, curiosity about computer information, especially in compiler, operating system(Linux), and security.
 
-- Addicted in writing lots of little scripts to improve my life.
+- Addicted in writing lots of little scripts to improve my daily life.
+
+- Listen to different kinds of music to relax myself, play saxophone sometimes
+
+- Watch Japanese animates
 
 
 
-Education backgroud
--------------------
+Education background
+--------------------
 
 - Undergraduate, Junior, Department of Computer Science, National Chiao Tung University
 
@@ -30,7 +34,7 @@ Education backgroud
 Awards and achievements
 -----------------------
 
-- 2nd place, 2012 NCTU Programming Contest for Freshman (team) 
+- 2nd place, 2012 NCTU Programming Contest for Freshmen (team) 
 - 2nd place, 2012 HITCON Wargame Contest, Taiwan (team)
 - 6nd place, 2013 HITCON Wargame Contest, Taiwan (team)
 
@@ -45,11 +49,11 @@ Computer skills
 - Perl (4 years programming experience)
 - Python (2 year programming experience)
 - Linux Shell Scripting (Good experience with bourne shell / bash / awk / sed)
-- Security
+- Linux (daily use and system programming)
 - compiler (llvm)
-- Linux programming
-- git version control system
 - GPU computing  (OpenCL)
+- Security
+- git version control system
 
 
 
@@ -83,7 +87,7 @@ Experience
 
 - Computer Information Researching Club, National Taichung First Senior High School
 - Server administration
-- BBS station administration
+- BBS(Taiwanese telnet based) server administration
 
 
 
@@ -92,6 +96,11 @@ Software Projects
 -----------------
 
 ### NBL virus automatic testing tool sets
+
+
+### github-commit-tracker
+- a fork-repos commit tracker for github
+- used in @jserv's [course](http://wiki.csie.ncku.edu.tw/embedded/schedule) in NCKU
 
 ### circbot
 - Plurk timeline bot
@@ -125,9 +134,10 @@ Invited talks
 
 
 
-Language skill
---------------
+Language skills
+---------------
 
-- Chinese: native speaker, fluent
+- **Taiwanese**: native speaker, fluent
+- Chinese: fluent
 - English: Be able to listen, read, write and speak but not fluent
 
