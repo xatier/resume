@@ -37,6 +37,8 @@ Awards and achievements
 - 2nd place, 2012 NCTU Programming Contest for Freshmen (team) 
 - 2nd place, 2012 HITCON Wargame Contest, Taiwan (team)
 - 6nd place, 2013 HITCON Wargame Contest, Taiwan (team)
+- 5th place, 2013 Information security contest [金盾獎](http://security.cisanet.org.tw/)
+- 2013 hacked the [fetc](http://www.fetc.net.tw) site
 
 
 
