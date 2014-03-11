@@ -1,7 +1,7 @@
 Resume
 ======
 
-Personal information 
+Personal information
 --------------------
 
 - Name: Yan-Ming Li (李晏銘)
@@ -18,9 +18,9 @@ Characteristics and habits
 
 - Addicted in writing lots of little scripts to improve my daily life.
 
-- Listen to different kinds of music to relax myself, play saxophone sometimes
+- Listen to different kinds of music to relax myself, play saxophone sometimes.
 
-- Watch Japanese animates
+- Watch Japanese animates.
 
 
 
@@ -34,7 +34,7 @@ Education background
 Awards and achievements
 -----------------------
 
-- 2nd place, 2012 NCTU Programming Contest for Freshmen (team) 
+- 2nd place, 2012 NCTU Programming Contest for Freshmen (team)
 - 2nd place, 2012 HITCON Wargame Contest, Taiwan (team)
 - 6nd place, 2013 HITCON Wargame Contest, Taiwan (team)
 - 5th place, 2013 Information security contest [金盾獎](http://security.cisanet.org.tw/)
@@ -60,7 +60,7 @@ Computer skills
 
 
 
-Experience 
+Experience
 ----------
 
 ### System Administrator, since June 2012
@@ -74,14 +74,21 @@ Experience
 - [Open House, NCTU](http://openhouse.nctu.edu.tw/2014/index.php)
 
 
+### Teaching Assistant, since February 2014
+
+- Computer Network Administration, 2014
+- A course for senior but I passed that when I was a freshman.
+- Maybe one of the youngest TA in the campus (NCTU).
+
+
 ### System Administrator, since July 2013 - October 2013
 
 - Unix server administrator, Information Technology Service Center, NCTU
-  
-  
+
+
 ### Intern, July 2013 - mid-September 2013
 
-- MulticoreWare, Inc (Champaign office)
+- MulticoreWare, Inc (Champaign office, IL)
 
 
 ### Assistant Engineer, May 2012 - June 2013
@@ -94,7 +101,7 @@ Experience
 
 - Computer Information Researching Club, National Taichung First Senior High School
 - Server administration
-- BBS(Taiwanese telnet based) server administration
+- BBS (Taiwanese telnet based BBS) server administration
 
 
 
@@ -102,7 +109,7 @@ Experience
 Software Projects
 -----------------
 
-### NBL virus automatic testing tool sets
+### NBL-ZyXEL virus automatic testing tool sets
 
 
 ### github-commit-tracker
@@ -127,14 +134,14 @@ Software Projects
 
 
 
-Presentations 
+Presentations
 -------------
 
 - Yen-Ming Lee, *Violent Python: Python in the dark side.*, PYCON.tw, May 25, 2013, Taipei, Taiwan
 
 
 
-Invited talks 
+Invited talks
 -------------
 
 - Yen-Ming Lee, *Kick My Mouse Away!*, SITCON.tw, March 16, 2013, Taipei, Taiwan
@@ -146,5 +153,5 @@ Language skills
 
 - **Taiwanese**: native speaker, fluent
 - Chinese: fluent
-- English: Be able to listen, read, write and speak but not fluent
+- English: be able to listen, read, write and speak articulately but not very fluent
 
