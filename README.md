@@ -14,20 +14,19 @@ Personal information
 Characteristics and habits
 --------------------------
 
-- Optimistic, aggressive, curiosity about computer information, especially in compiler, operating system(Linux), and security.
-
+- Optimistic, aggressive, curious.
+- Love compilers, operating system(Linux), and security.
 - Addicted in writing lots of little scripts to improve my daily life.
-
 - Listen to different kinds of music to relax myself, play saxophone sometimes.
-
-- Watch Japanese animates.
+- Watch Japanese animates in free time.
 
 
 
 Education background
 --------------------
 
-- Undergraduate, Junior, Department of Computer Science, National Chiao Tung University
+- Undergraduate
+- Junior, Department of Computer Science, National Chiao Tung University (國立交通大學 資訊工程學系)
 
 
 
@@ -37,8 +36,8 @@ Awards and achievements
 - 2nd place, 2012 NCTU Programming Contest for Freshmen (team)
 - 2nd place, 2012 HITCON Wargame Contest, Taiwan (team)
 - 6nd place, 2013 HITCON Wargame Contest, Taiwan (team)
-- 5th place, 2013 Information security contest [金盾獎](http://security.cisanet.org.tw/)
-- 2014 Discovered lots of vulnerabilities of [fetc](http://www.fetc.net.tw) site
+- 5th place, 2013 Information security contest ([金盾獎](http://security.cisanet.org.tw/))
+- 2014 Discovered lots of vulnerabilities in [FETC](http://www.fetc.net.tw) system
 
 
 
@@ -47,15 +46,16 @@ Computer skills
 ---------------
 
 - System Administration (Archlinux, Debian/Ubuntu Linux, FreeBSD)
-- C (6 year programming experience)
-- Perl (4 years programming experience)
-- Python (2 year programming experience)
-- Linux Shell Scripting (Good experience with bourne shell / bash / awk / sed)
+- C (7 years programming experience)
+- Perl (5 years programming experience)
+- Python (3 years programming experience)
+- PHP (1 year programming experience)
+- Linux Shell Scripting (Good experience with `bash`, `awk` and `sed`)
 - Linux (daily use and system programming)
-- compiler (llvm)
-- GPU computing  (OpenCL)
+- compiler (`llvm`)
+- GPU computing  (`OpenCL`)
 - Security
-- git version control system
+- `git` version control system
 
 
 
@@ -69,16 +69,16 @@ Experience
 - Linux team, PC team, VCS team (Version Control System)
 
 
-### Web developer, server administrator, since November, 2013
+### Web developer, server administrator, since November 2013
 
 - [Open House, NCTU](http://openhouse.nctu.edu.tw/2014/index.php)
 
 
-### Teaching Assistant, since February 2014
+### Course teaching assistant, since February 2014
 
 - Computer Network Administration, 2014
-- A course for senior but I passed that when I was a freshman.
-- Maybe one of the youngest TA in the campus (NCTU).
+- A course for seniors but I passed that when I was a freshman.
+- One of the youngest TA in the campus (NCTU).
 
 
 ### System Administrator, since July 2013 - October 2013
@@ -104,31 +104,36 @@ Experience
 - BBS (Taiwanese telnet based BBS) server administration
 
 
+### Technical Advisor, since April 2012
+
+- Student Union, NCTU
+- Server administration
+
 
 
 Software Projects
 -----------------
 
-### NBL-ZyXEL virus automatic testing tool sets
+#### NBL-ZyXEL virus automatic testing tool sets
 
 
-### github-commit-tracker
-- a fork-repos commit tracker for github
-- used in @jserv's [course](http://wiki.csie.ncku.edu.tw/embedded/schedule) in NCKU
+#### github-commit-tracker
+- a git network tracker for github
+- used in @jserv 's [course](http://wiki.csie.ncku.edu.tw/embedded/schedule) in NCKU
 
-### circbot
+#### circbot
 - Plurk timeline bot
 
-### d_bot
-- IRC-based RSS feed bot
+#### d_bot
+- my IRC bot
 
-### Hime Input Method Editor (contributer)
+#### Hime Input Method Editor (contributer)
 - A Chinese input method editor forked from gcin
 
-### Tox.im (contributer)
+#### Tox.im (contributer)
 - Free as in freedom Skype replacement.
 
-### EOD BBS
+#### EOD BBS
 - BBS system in Taichung First Senior High School
 
 
@@ -153,5 +158,5 @@ Language skills
 
 - **Taiwanese**: native speaker, fluent
 - Chinese: fluent
-- English: be able to listen, read, write and speak articulately but not very fluent
+- English: fluent
 
