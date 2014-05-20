@@ -46,12 +46,9 @@ Computer skills
 ---------------
 
 - System Administration (Archlinux, Debian/Ubuntu Linux, FreeBSD)
-- C (7 years programming experience)
-- Perl (5 years programming experience)
-- Python (3 years programming experience)
-- PHP (1 year programming experience)
+- `C` (7 years), `Perl` (5 years), `Python` (3 years), `PHP` (1 year)
 - Linux Shell Scripting (Good experience with `bash`, `awk` and `sed`)
-- Linux (daily use and system programming)
+- Linux (daily use for 7 years and system programming)
 - compiler (`llvm`)
 - GPU computing  (`OpenCL`)
 - Security
@@ -63,48 +60,48 @@ Computer skills
 Experience
 ----------
 
-### System Administrator, since June 2012
+#### System Administrator, since June 2012
 
 - Administrator, Computer Center, Department of Computer Science, NCTU
 - Linux team, PC team, VCS team (Version Control System)
 
 
-### Web developer, server administrator, since November 2013
+#### Web developer, server administrator, since November 2013
 
 - [Open House, NCTU](http://openhouse.nctu.edu.tw/2014/index.php)
 
 
-### Course teaching assistant, since February 2014
+#### Course teaching assistant, since February 2014
 
 - Computer Network Administration, 2014
 - A course for seniors but I passed that when I was a freshman.
 - One of the youngest TA in the campus (NCTU).
 
 
-### System Administrator, since July 2013 - October 2013
+#### System Administrator, since July 2013 - October 2013
 
 - Unix server administrator, Information Technology Service Center, NCTU
 
 
-### Intern, July 2013 - mid-September 2013
+#### Intern, July 2013 - mid-September 2013
 
 - MulticoreWare, Inc (Champaign office, IL)
 
 
-### Assistant Engineer, May 2012 - June 2013
+#### Assistant Engineer, May 2012 - June 2013
 
 - NCTU Network Benchmarking Lab, HsinChu, Taiwan
 - Developed automatic testing & packing tools for anti-virus network router firmwares
 
 
-### Network Administrator, April 2010  - August 2011
+#### Network Administrator, April 2010  - August 2011
 
 - Computer Information Researching Club, National Taichung First Senior High School
 - Server administration
 - BBS (Taiwanese telnet based BBS) server administration
 
 
-### Technical Advisor, since April 2012
+#### Technical Advisor, since April 2012
 
 - Student Union, NCTU
 - Server administration
@@ -144,4 +141,4 @@ Language skills
 - **Taiwanese**: native speaker, fluent
 - Chinese: fluent
 - English: fluent
-
+- Japanese: beginner
