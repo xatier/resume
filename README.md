@@ -116,26 +116,11 @@ Software Projects
 
 #### NBL-ZyXEL virus automatic testing tool sets
 
-
-#### github-commit-tracker
-- a git network tracker for github
-- used in @jserv 's [course](http://wiki.csie.ncku.edu.tw/embedded/schedule) in NCKU
-
-#### circbot
-- Plurk timeline bot
-
-#### d_bot
-- my IRC bot
-
 #### Hime Input Method Editor (contributer)
 - A Chinese input method editor forked from gcin
 
 #### Tox.im (contributer)
 - Free as in freedom Skype replacement.
-
-#### EOD BBS
-- BBS system in Taichung First Senior High School
-
 
 
 
