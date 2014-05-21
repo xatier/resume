@@ -15,16 +15,15 @@ Characteristics and habits
 --------------------------
 
 - Optimistic, aggressive, curious.
-- Love compilers, operating system(Linux), and security.
+- Enthusiastic in compilers, operating system(Linux), and security.
 - Addicted to writing lots of little scripts to improve my daily life.
-- Listen to different kinds of music to relax myself, play saxophone sometimes.
-- Watch Japanese animates in free time.
+- Listen to different kinds of music to relax myself, play saxophone.
+- Watch Japanese animates.
 
 
 
-Education background
---------------------
-
+Education
+---------
 - Undergraduate
 - Junior, Department of Computer Science, National Chiao Tung University (國立交通大學 資訊工程學系)
 
@@ -47,10 +46,10 @@ Computer skills
 
 - System Administration (Archlinux, Debian/Ubuntu Linux, FreeBSD)
 - `C` (7 years), `Perl` (5 years), `Python` (3 years), `PHP` (1 year)
-- Linux Shell Scripting (Good experience with `bash`, `awk` and `sed`)
+- Linux Shell Scripting (well experience in `bash`, `awk` and `sed`)
 - Linux (daily use for 7 years and system programming)
-- compiler (`llvm`)
-- GPU computing  (`OpenCL`)
+- Compiler (`llvm`)
+- GPU Computing  (`OpenCL`)
 - Security
 - `git` version control system
 
