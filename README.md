@@ -16,7 +16,7 @@ Characteristics and habits
 
 - Optimistic, aggressive, curious.
 - Love compilers, operating system(Linux), and security.
-- Addicted in writing lots of little scripts to improve my daily life.
+- Addicted to writing lots of little scripts to improve my daily life.
 - Listen to different kinds of music to relax myself, play saxophone sometimes.
 - Watch Japanese animates in free time.
 
